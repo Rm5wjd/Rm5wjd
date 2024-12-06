@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 <a href="https://profile.intra.42.fr/" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=https://simpleicons.org/icons/42.svg&logoColor=000000"/></a>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=audrms58)](https://solved.ac/audrms58)
 
-<img src="https://img.shields.io/badge/cplusplus-#00599C?style=flat&logo=C++&logoColor=white"/>
 
+## Studying
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
